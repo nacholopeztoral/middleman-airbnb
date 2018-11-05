@@ -1,4 +1,21 @@
-- name: 'Nacho Lopez'
-  github_nickname: 'nachospain'
-- name: 'Paul Jelkmann'
-  github_nickname: 'pjelkmann'
+bala:
+  breed: "whippet"
+  img: charlie.jpg
+edefix:
+  breed: "jack russel"
+  img: doggy.jpg
+felix:
+  breed: "asterix y obelix"
+  img: wig.jpg
+jadwiga:
+  breed: "french dog"
+  img: marion.jpg
+jadwigo:
+  breed: "french dog"
+  img: funny.jpg
+doby:
+  breed: "house elf"
+  img: doby.jpeg
+naggini:
+  breed: "scary ass snake"
+  img: Nagini.jpg
